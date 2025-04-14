@@ -1,8 +1,8 @@
-# Project: Pawsome - Animal Shelter Adoption Platform
+# Pawsome - Animal Shelter Adoption Platform
 
-**Project Status:** [Completed / In Progress / Planned]
-**Live Demo:** [Link to Live Demo or Hosted App - if available]
-**Repository:** [Link to GitHub/GitLab Repository - if available]
+**Project Status:** In-Progress
+**Live Demo:** https://pawsome-frontend.vercel.app/
+**Repository:** https://github.com/ngluunhatson/pawsome-frontend
 
 ## Project Overview
 
@@ -57,9 +57,7 @@ Pawsome is a web application designed to streamline the pet adoption process by 
 
 ## Screenshots
 
-*(Insert screenshots of the landing page, search results, animal profile page, admin dashboard, etc. here)*
-
-`![Screenshot-1](image.png)`
+`![Screenshot-1](./image.png)`
 `[Insert Screenshot 2: Search/Browse Page]`
 `[Insert Screenshot 3: Animal Profile Example]`
 `[Insert Screenshot 4: Admin Profile Creation Form]`
