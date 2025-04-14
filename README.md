@@ -57,10 +57,17 @@ Pawsome is a web application designed to streamline the pet adoption process by 
 
 ## Screenshots
 
-![Screenshot-1](https://github.com/ngluunhatson/ngluunhatson/blob/main/image.png?raw=true "Landing Page")
-* `[Insert Screenshot 2: Search/Browse Page]`
-* `[Insert Screenshot 3: Animal Profile Example]`
-* `[Insert Screenshot 4: Admin Profile Creation Form]`
+* Landing Page
+![Screenshot-1](https://github.com/ngluunhatson/ngluunhatson/blob/main/image-4.png?raw=true "Landing Page")
+
+* Search/Browse Page
+![Screenshot-2](https://github.com/ngluunhatson/ngluunhatson/blob/main/image.png?raw=true "Matching Page")
+
+* Admin Pet Profile Management Page
+![Screenshot-2](https://github.com/ngluunhatson/ngluunhatson/blob/main/image-3.png?raw=true "Admin Pet Profile Management Page")
+
+* Admin Profile Creation Form
+![Screenshot-4](https://github.com/ngluunhatson/ngluunhatson/blob/main/image-1.png?raw=true "Admin Profile Creation Form")
 
 ## Challenges & Future Enhancements
 
