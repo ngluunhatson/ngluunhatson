@@ -1,8 +1,8 @@
 # Pawsome - Animal Shelter Adoption Platform
 
-**Project Status:** In-Progress
-**Live Demo:** https://pawsome-frontend.vercel.app/
-**Repository:** https://github.com/ngluunhatson/pawsome-frontend
+* **Project Status:** In-Progress
+* **Live Demo:** https://pawsome-frontend.vercel.app/
+* **Repository:** https://github.com/ngluunhatson/pawsome-frontend
 
 ## Project Overview
 
